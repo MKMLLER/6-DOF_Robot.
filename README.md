@@ -2,7 +2,7 @@
 
 Welcome to the repository for my custom 6-axis robotic arm manipulator. This project involves mechanical design, 3D printing, electronics, and inverse kinematics (IK) calculations.
 
-![Robotic Arm](./RA_Main/Images/Main_Images/Image1.jpg) *(Here you can find the main photo)*
+![Robotic Arm](./RA_Main/Images/Main_Images/Image3.jpg) *(Here you can find the main photo)*
 
 ## Project Structure
 * `/Images` — Photos, CAD renders. Updates are coming soon!
