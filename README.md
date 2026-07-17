@@ -1,6 +1,7 @@
 # 6-DOF 3D-Printed Robotic Arm
 
 Welcome to the repository for my custom 6-axis robotic arm manipulator. This project involves mechanical design, 3D printing, electronics, and inverse kinematics (IK) calculations.
+ *Note: I am currently working on this project. Have not upload the files, wait for updates
 
 ![Robotic Arm 3d model](./RA_Main/Images/Main_Images/Image3.jpg) 
 ![Robotic Arm](./RA_Main/Images/Main_Images/Image1.jpg) 
