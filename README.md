@@ -7,6 +7,7 @@ Welcome to the repository for my custom 6-axis robotic arm manipulator. This pro
 ![Robotic Arm](./RA_Main/Images/Main_Images/Image1.jpg) 
 ## Project Structure
 * `/Images` — Photos, CAD renders. Updates are coming soon!
+* [RobotArm.STL](./RobotArm.STL) — 3D model of the project. Click to view interactive 3D model directly in browser.
 
 ##  Current Status
 * **Mechanics:** 100% assembled (3D-printed parts, stepper motors).
