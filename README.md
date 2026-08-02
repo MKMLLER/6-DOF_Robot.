@@ -29,8 +29,8 @@ Welcome to the repository for my custom 6-axis robotic arm manipulator. This pro
   * `Bevel` / `Compound` / `Cycloidal` — Specific gear types
 * **`NumberOfTeeth`**: Tooth count (`T10`, `T30`, or `T30_T10` for compound)
 
-### Quick Examples
-* `J5_Drive_T10`
+### Examples
+* J5_Drive_T10
 * `J5_Idler_T10`
 * `J5_Driven_T30`
 * `J5_CompoundBevel_T30_T10`
