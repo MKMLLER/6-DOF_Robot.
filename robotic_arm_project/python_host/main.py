@@ -1,0 +1,35 @@
+import os
+os.environ["OPENCV_LOG_LEVEL"] = "OFF"
+
+import sys
+import cv2
+try:
+    cv2.setLogLevel(0)
+except Exception:
+    pass
+
+from PyQt6.QtWidgets import QApplication
+from PyQt6.QtGui import QFont
+from ui_main import MainWindow
+
+
+
+def main():
+    app = QApplication(sys.argv)
+    
+    # Set application metadata
+    app.setApplicationName("Robotic Arm Control")
+    app.setOrganizationName("RoboticArm")
+    
+    # Default font
+    font = QFont("Segoe UI", 10)
+    app.setFont(font)
+    
+    window = MainWindow()
+    window.show()
+    
+    sys.exit(app.exec())
+
+
+if __name__ == "__main__":
+    main()
